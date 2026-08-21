@@ -2,6 +2,7 @@ Public App Store support site for Sai Laksha Technologies apps.
 
 Home: https://sreedharlakshman2.github.io
 
+- Boti Robo: http://tamilrobotics.com
 - Count Mantras: https://sreedharlakshman2.github.io/count-mantras/
 - Coin Toss - Sreeo: https://sreedharlakshman2.github.io/coin-toss/
 - Guess the Country Quiz: https://sreedharlakshman2.github.io/guess-the-country/
