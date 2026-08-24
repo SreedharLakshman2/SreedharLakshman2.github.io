@@ -12,7 +12,7 @@ Home: https://sreedharlakshman2.github.io
 - On Earth Recap: https://sreedharlakshman2.github.io/on-earth-recap/
 - Little Scientist: https://sreedharlakshman2.github.io/little-scientist/
 - Pulse Raid: https://sreedharlakshman2.github.io/pulse-raid/
-- Snake: https://sreedharlakshman2.github.io/snake/
+- Snakelet: https://sreedharlakshman2.github.io/snake/
 
 AdMob app-ads.txt: https://sreedharlakshman2.github.io/app-ads.txt
 AdMob ads.txt: https://sreedharlakshman2.github.io/ads.txt
