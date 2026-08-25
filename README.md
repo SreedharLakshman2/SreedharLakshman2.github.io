@@ -13,6 +13,7 @@ Home: https://sreedharlakshman2.github.io
 - Little Scientist: https://sreedharlakshman2.github.io/little-scientist/
 - Pulse Raid: https://sreedharlakshman2.github.io/pulse-raid/
 - Snakelet: https://sreedharlakshman2.github.io/snake/
+- Traditional Rangoli: https://sreedharlakshman2.github.io/traditional-rangoli/
 
 AdMob app-ads.txt: https://sreedharlakshman2.github.io/app-ads.txt
 AdMob ads.txt: https://sreedharlakshman2.github.io/ads.txt
